@@ -203,8 +203,9 @@ def main(argv: List[str]) -> int:
                         help="PRNG seed (default 20260913)")
     parser.add_argument("--len-min", type=int, default=1,
                         help="Minimum input length in bytes (default 1)")
-    parser.add_argument("--len-max", type=int, default=10_240,
-                        help="Maximum input length in bytes (default 10240)")
+    parser.add_argument("--len-max", type=int, default=2048,
+                        help="Maximum input length in bytes (default 2048; "
+                             "1M iters fit within the cycle_64 300s cap)")
     args = parser.parse_args(argv)
     if args.len_min < 1 or args.len_max < args.len_min:
         raise SystemExit("invalid --len-min/--len-max (must be >= 1)")
