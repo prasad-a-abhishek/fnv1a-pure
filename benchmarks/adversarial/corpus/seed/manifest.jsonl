@@ -1,0 +1,344 @@
+{"category": "ref_vectors", "expected_fnv1a_32": 2166136261, "expected_fnv1a_64": 14695981039346656037, "rationale": "spec-published AC vector (cycle_71 spec.md L156-159)", "relpath": "ref_vectors/empty.bin", "size_bytes": 0}
+{"category": "ref_vectors", "expected_fnv1a_32": 3826002220, "expected_fnv1a_64": 12638187200555641996, "rationale": "spec-published AC vector (cycle_71 spec.md L156-159)", "relpath": "ref_vectors/a.bin", "size_bytes": 1}
+{"category": "ref_vectors", "expected_fnv1a_32": 1335831723, "expected_fnv1a_64": 11831194018420276491, "rationale": "spec-published AC vector (cycle_71 spec.md L156-159)", "relpath": "ref_vectors/hello.bin", "size_bytes": 5}
+{"category": "ref_vectors", "expected_fnv1a_32": 3582672807, "expected_fnv1a_64": 8618312879776256743, "rationale": "spec-published AC vector (cycle_71 spec.md L156-159)", "relpath": "ref_vectors/hello_w.bin", "size_bytes": 11}
+{"byte_value": 0, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_00.bin", "size_bytes": 1}
+{"byte_value": 1, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_01.bin", "size_bytes": 1}
+{"byte_value": 2, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_02.bin", "size_bytes": 1}
+{"byte_value": 3, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_03.bin", "size_bytes": 1}
+{"byte_value": 4, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_04.bin", "size_bytes": 1}
+{"byte_value": 5, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_05.bin", "size_bytes": 1}
+{"byte_value": 6, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_06.bin", "size_bytes": 1}
+{"byte_value": 7, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_07.bin", "size_bytes": 1}
+{"byte_value": 8, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_08.bin", "size_bytes": 1}
+{"byte_value": 9, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_09.bin", "size_bytes": 1}
+{"byte_value": 10, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_0a.bin", "size_bytes": 1}
+{"byte_value": 11, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_0b.bin", "size_bytes": 1}
+{"byte_value": 12, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_0c.bin", "size_bytes": 1}
+{"byte_value": 13, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_0d.bin", "size_bytes": 1}
+{"byte_value": 14, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_0e.bin", "size_bytes": 1}
+{"byte_value": 15, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_0f.bin", "size_bytes": 1}
+{"byte_value": 16, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_10.bin", "size_bytes": 1}
+{"byte_value": 17, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_11.bin", "size_bytes": 1}
+{"byte_value": 18, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_12.bin", "size_bytes": 1}
+{"byte_value": 19, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_13.bin", "size_bytes": 1}
+{"byte_value": 20, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_14.bin", "size_bytes": 1}
+{"byte_value": 21, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_15.bin", "size_bytes": 1}
+{"byte_value": 22, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_16.bin", "size_bytes": 1}
+{"byte_value": 23, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_17.bin", "size_bytes": 1}
+{"byte_value": 24, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_18.bin", "size_bytes": 1}
+{"byte_value": 25, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_19.bin", "size_bytes": 1}
+{"byte_value": 26, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_1a.bin", "size_bytes": 1}
+{"byte_value": 27, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_1b.bin", "size_bytes": 1}
+{"byte_value": 28, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_1c.bin", "size_bytes": 1}
+{"byte_value": 29, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_1d.bin", "size_bytes": 1}
+{"byte_value": 30, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_1e.bin", "size_bytes": 1}
+{"byte_value": 31, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_1f.bin", "size_bytes": 1}
+{"byte_value": 32, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_20.bin", "size_bytes": 1}
+{"byte_value": 33, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_21.bin", "size_bytes": 1}
+{"byte_value": 34, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_22.bin", "size_bytes": 1}
+{"byte_value": 35, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_23.bin", "size_bytes": 1}
+{"byte_value": 36, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_24.bin", "size_bytes": 1}
+{"byte_value": 37, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_25.bin", "size_bytes": 1}
+{"byte_value": 38, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_26.bin", "size_bytes": 1}
+{"byte_value": 39, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_27.bin", "size_bytes": 1}
+{"byte_value": 40, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_28.bin", "size_bytes": 1}
+{"byte_value": 41, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_29.bin", "size_bytes": 1}
+{"byte_value": 42, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_2a.bin", "size_bytes": 1}
+{"byte_value": 43, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_2b.bin", "size_bytes": 1}
+{"byte_value": 44, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_2c.bin", "size_bytes": 1}
+{"byte_value": 45, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_2d.bin", "size_bytes": 1}
+{"byte_value": 46, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_2e.bin", "size_bytes": 1}
+{"byte_value": 47, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_2f.bin", "size_bytes": 1}
+{"byte_value": 48, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_30.bin", "size_bytes": 1}
+{"byte_value": 49, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_31.bin", "size_bytes": 1}
+{"byte_value": 50, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_32.bin", "size_bytes": 1}
+{"byte_value": 51, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_33.bin", "size_bytes": 1}
+{"byte_value": 52, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_34.bin", "size_bytes": 1}
+{"byte_value": 53, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_35.bin", "size_bytes": 1}
+{"byte_value": 54, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_36.bin", "size_bytes": 1}
+{"byte_value": 55, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_37.bin", "size_bytes": 1}
+{"byte_value": 56, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_38.bin", "size_bytes": 1}
+{"byte_value": 57, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_39.bin", "size_bytes": 1}
+{"byte_value": 58, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_3a.bin", "size_bytes": 1}
+{"byte_value": 59, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_3b.bin", "size_bytes": 1}
+{"byte_value": 60, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_3c.bin", "size_bytes": 1}
+{"byte_value": 61, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_3d.bin", "size_bytes": 1}
+{"byte_value": 62, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_3e.bin", "size_bytes": 1}
+{"byte_value": 63, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_3f.bin", "size_bytes": 1}
+{"byte_value": 64, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_40.bin", "size_bytes": 1}
+{"byte_value": 65, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_41.bin", "size_bytes": 1}
+{"byte_value": 66, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_42.bin", "size_bytes": 1}
+{"byte_value": 67, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_43.bin", "size_bytes": 1}
+{"byte_value": 68, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_44.bin", "size_bytes": 1}
+{"byte_value": 69, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_45.bin", "size_bytes": 1}
+{"byte_value": 70, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_46.bin", "size_bytes": 1}
+{"byte_value": 71, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_47.bin", "size_bytes": 1}
+{"byte_value": 72, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_48.bin", "size_bytes": 1}
+{"byte_value": 73, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_49.bin", "size_bytes": 1}
+{"byte_value": 74, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_4a.bin", "size_bytes": 1}
+{"byte_value": 75, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_4b.bin", "size_bytes": 1}
+{"byte_value": 76, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_4c.bin", "size_bytes": 1}
+{"byte_value": 77, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_4d.bin", "size_bytes": 1}
+{"byte_value": 78, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_4e.bin", "size_bytes": 1}
+{"byte_value": 79, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_4f.bin", "size_bytes": 1}
+{"byte_value": 80, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_50.bin", "size_bytes": 1}
+{"byte_value": 81, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_51.bin", "size_bytes": 1}
+{"byte_value": 82, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_52.bin", "size_bytes": 1}
+{"byte_value": 83, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_53.bin", "size_bytes": 1}
+{"byte_value": 84, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_54.bin", "size_bytes": 1}
+{"byte_value": 85, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_55.bin", "size_bytes": 1}
+{"byte_value": 86, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_56.bin", "size_bytes": 1}
+{"byte_value": 87, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_57.bin", "size_bytes": 1}
+{"byte_value": 88, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_58.bin", "size_bytes": 1}
+{"byte_value": 89, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_59.bin", "size_bytes": 1}
+{"byte_value": 90, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_5a.bin", "size_bytes": 1}
+{"byte_value": 91, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_5b.bin", "size_bytes": 1}
+{"byte_value": 92, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_5c.bin", "size_bytes": 1}
+{"byte_value": 93, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_5d.bin", "size_bytes": 1}
+{"byte_value": 94, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_5e.bin", "size_bytes": 1}
+{"byte_value": 95, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_5f.bin", "size_bytes": 1}
+{"byte_value": 96, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_60.bin", "size_bytes": 1}
+{"byte_value": 97, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_61.bin", "size_bytes": 1}
+{"byte_value": 98, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_62.bin", "size_bytes": 1}
+{"byte_value": 99, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_63.bin", "size_bytes": 1}
+{"byte_value": 100, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_64.bin", "size_bytes": 1}
+{"byte_value": 101, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_65.bin", "size_bytes": 1}
+{"byte_value": 102, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_66.bin", "size_bytes": 1}
+{"byte_value": 103, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_67.bin", "size_bytes": 1}
+{"byte_value": 104, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_68.bin", "size_bytes": 1}
+{"byte_value": 105, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_69.bin", "size_bytes": 1}
+{"byte_value": 106, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_6a.bin", "size_bytes": 1}
+{"byte_value": 107, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_6b.bin", "size_bytes": 1}
+{"byte_value": 108, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_6c.bin", "size_bytes": 1}
+{"byte_value": 109, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_6d.bin", "size_bytes": 1}
+{"byte_value": 110, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_6e.bin", "size_bytes": 1}
+{"byte_value": 111, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_6f.bin", "size_bytes": 1}
+{"byte_value": 112, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_70.bin", "size_bytes": 1}
+{"byte_value": 113, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_71.bin", "size_bytes": 1}
+{"byte_value": 114, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_72.bin", "size_bytes": 1}
+{"byte_value": 115, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_73.bin", "size_bytes": 1}
+{"byte_value": 116, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_74.bin", "size_bytes": 1}
+{"byte_value": 117, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_75.bin", "size_bytes": 1}
+{"byte_value": 118, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_76.bin", "size_bytes": 1}
+{"byte_value": 119, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_77.bin", "size_bytes": 1}
+{"byte_value": 120, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_78.bin", "size_bytes": 1}
+{"byte_value": 121, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_79.bin", "size_bytes": 1}
+{"byte_value": 122, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_7a.bin", "size_bytes": 1}
+{"byte_value": 123, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_7b.bin", "size_bytes": 1}
+{"byte_value": 124, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_7c.bin", "size_bytes": 1}
+{"byte_value": 125, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_7d.bin", "size_bytes": 1}
+{"byte_value": 126, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_7e.bin", "size_bytes": 1}
+{"byte_value": 127, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_7f.bin", "size_bytes": 1}
+{"byte_value": 128, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_80.bin", "size_bytes": 1}
+{"byte_value": 129, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_81.bin", "size_bytes": 1}
+{"byte_value": 130, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_82.bin", "size_bytes": 1}
+{"byte_value": 131, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_83.bin", "size_bytes": 1}
+{"byte_value": 132, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_84.bin", "size_bytes": 1}
+{"byte_value": 133, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_85.bin", "size_bytes": 1}
+{"byte_value": 134, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_86.bin", "size_bytes": 1}
+{"byte_value": 135, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_87.bin", "size_bytes": 1}
+{"byte_value": 136, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_88.bin", "size_bytes": 1}
+{"byte_value": 137, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_89.bin", "size_bytes": 1}
+{"byte_value": 138, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_8a.bin", "size_bytes": 1}
+{"byte_value": 139, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_8b.bin", "size_bytes": 1}
+{"byte_value": 140, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_8c.bin", "size_bytes": 1}
+{"byte_value": 141, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_8d.bin", "size_bytes": 1}
+{"byte_value": 142, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_8e.bin", "size_bytes": 1}
+{"byte_value": 143, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_8f.bin", "size_bytes": 1}
+{"byte_value": 144, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_90.bin", "size_bytes": 1}
+{"byte_value": 145, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_91.bin", "size_bytes": 1}
+{"byte_value": 146, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_92.bin", "size_bytes": 1}
+{"byte_value": 147, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_93.bin", "size_bytes": 1}
+{"byte_value": 148, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_94.bin", "size_bytes": 1}
+{"byte_value": 149, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_95.bin", "size_bytes": 1}
+{"byte_value": 150, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_96.bin", "size_bytes": 1}
+{"byte_value": 151, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_97.bin", "size_bytes": 1}
+{"byte_value": 152, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_98.bin", "size_bytes": 1}
+{"byte_value": 153, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_99.bin", "size_bytes": 1}
+{"byte_value": 154, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_9a.bin", "size_bytes": 1}
+{"byte_value": 155, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_9b.bin", "size_bytes": 1}
+{"byte_value": 156, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_9c.bin", "size_bytes": 1}
+{"byte_value": 157, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_9d.bin", "size_bytes": 1}
+{"byte_value": 158, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_9e.bin", "size_bytes": 1}
+{"byte_value": 159, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_9f.bin", "size_bytes": 1}
+{"byte_value": 160, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_a0.bin", "size_bytes": 1}
+{"byte_value": 161, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_a1.bin", "size_bytes": 1}
+{"byte_value": 162, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_a2.bin", "size_bytes": 1}
+{"byte_value": 163, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_a3.bin", "size_bytes": 1}
+{"byte_value": 164, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_a4.bin", "size_bytes": 1}
+{"byte_value": 165, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_a5.bin", "size_bytes": 1}
+{"byte_value": 166, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_a6.bin", "size_bytes": 1}
+{"byte_value": 167, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_a7.bin", "size_bytes": 1}
+{"byte_value": 168, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_a8.bin", "size_bytes": 1}
+{"byte_value": 169, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_a9.bin", "size_bytes": 1}
+{"byte_value": 170, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_aa.bin", "size_bytes": 1}
+{"byte_value": 171, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ab.bin", "size_bytes": 1}
+{"byte_value": 172, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ac.bin", "size_bytes": 1}
+{"byte_value": 173, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ad.bin", "size_bytes": 1}
+{"byte_value": 174, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ae.bin", "size_bytes": 1}
+{"byte_value": 175, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_af.bin", "size_bytes": 1}
+{"byte_value": 176, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_b0.bin", "size_bytes": 1}
+{"byte_value": 177, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_b1.bin", "size_bytes": 1}
+{"byte_value": 178, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_b2.bin", "size_bytes": 1}
+{"byte_value": 179, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_b3.bin", "size_bytes": 1}
+{"byte_value": 180, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_b4.bin", "size_bytes": 1}
+{"byte_value": 181, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_b5.bin", "size_bytes": 1}
+{"byte_value": 182, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_b6.bin", "size_bytes": 1}
+{"byte_value": 183, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_b7.bin", "size_bytes": 1}
+{"byte_value": 184, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_b8.bin", "size_bytes": 1}
+{"byte_value": 185, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_b9.bin", "size_bytes": 1}
+{"byte_value": 186, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ba.bin", "size_bytes": 1}
+{"byte_value": 187, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_bb.bin", "size_bytes": 1}
+{"byte_value": 188, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_bc.bin", "size_bytes": 1}
+{"byte_value": 189, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_bd.bin", "size_bytes": 1}
+{"byte_value": 190, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_be.bin", "size_bytes": 1}
+{"byte_value": 191, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_bf.bin", "size_bytes": 1}
+{"byte_value": 192, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_c0.bin", "size_bytes": 1}
+{"byte_value": 193, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_c1.bin", "size_bytes": 1}
+{"byte_value": 194, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_c2.bin", "size_bytes": 1}
+{"byte_value": 195, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_c3.bin", "size_bytes": 1}
+{"byte_value": 196, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_c4.bin", "size_bytes": 1}
+{"byte_value": 197, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_c5.bin", "size_bytes": 1}
+{"byte_value": 198, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_c6.bin", "size_bytes": 1}
+{"byte_value": 199, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_c7.bin", "size_bytes": 1}
+{"byte_value": 200, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_c8.bin", "size_bytes": 1}
+{"byte_value": 201, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_c9.bin", "size_bytes": 1}
+{"byte_value": 202, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ca.bin", "size_bytes": 1}
+{"byte_value": 203, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_cb.bin", "size_bytes": 1}
+{"byte_value": 204, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_cc.bin", "size_bytes": 1}
+{"byte_value": 205, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_cd.bin", "size_bytes": 1}
+{"byte_value": 206, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ce.bin", "size_bytes": 1}
+{"byte_value": 207, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_cf.bin", "size_bytes": 1}
+{"byte_value": 208, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_d0.bin", "size_bytes": 1}
+{"byte_value": 209, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_d1.bin", "size_bytes": 1}
+{"byte_value": 210, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_d2.bin", "size_bytes": 1}
+{"byte_value": 211, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_d3.bin", "size_bytes": 1}
+{"byte_value": 212, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_d4.bin", "size_bytes": 1}
+{"byte_value": 213, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_d5.bin", "size_bytes": 1}
+{"byte_value": 214, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_d6.bin", "size_bytes": 1}
+{"byte_value": 215, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_d7.bin", "size_bytes": 1}
+{"byte_value": 216, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_d8.bin", "size_bytes": 1}
+{"byte_value": 217, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_d9.bin", "size_bytes": 1}
+{"byte_value": 218, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_da.bin", "size_bytes": 1}
+{"byte_value": 219, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_db.bin", "size_bytes": 1}
+{"byte_value": 220, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_dc.bin", "size_bytes": 1}
+{"byte_value": 221, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_dd.bin", "size_bytes": 1}
+{"byte_value": 222, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_de.bin", "size_bytes": 1}
+{"byte_value": 223, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_df.bin", "size_bytes": 1}
+{"byte_value": 224, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_e0.bin", "size_bytes": 1}
+{"byte_value": 225, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_e1.bin", "size_bytes": 1}
+{"byte_value": 226, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_e2.bin", "size_bytes": 1}
+{"byte_value": 227, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_e3.bin", "size_bytes": 1}
+{"byte_value": 228, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_e4.bin", "size_bytes": 1}
+{"byte_value": 229, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_e5.bin", "size_bytes": 1}
+{"byte_value": 230, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_e6.bin", "size_bytes": 1}
+{"byte_value": 231, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_e7.bin", "size_bytes": 1}
+{"byte_value": 232, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_e8.bin", "size_bytes": 1}
+{"byte_value": 233, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_e9.bin", "size_bytes": 1}
+{"byte_value": 234, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ea.bin", "size_bytes": 1}
+{"byte_value": 235, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_eb.bin", "size_bytes": 1}
+{"byte_value": 236, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ec.bin", "size_bytes": 1}
+{"byte_value": 237, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ed.bin", "size_bytes": 1}
+{"byte_value": 238, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ee.bin", "size_bytes": 1}
+{"byte_value": 239, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ef.bin", "size_bytes": 1}
+{"byte_value": 240, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_f0.bin", "size_bytes": 1}
+{"byte_value": 241, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_f1.bin", "size_bytes": 1}
+{"byte_value": 242, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_f2.bin", "size_bytes": 1}
+{"byte_value": 243, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_f3.bin", "size_bytes": 1}
+{"byte_value": 244, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_f4.bin", "size_bytes": 1}
+{"byte_value": 245, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_f5.bin", "size_bytes": 1}
+{"byte_value": 246, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_f6.bin", "size_bytes": 1}
+{"byte_value": 247, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_f7.bin", "size_bytes": 1}
+{"byte_value": 248, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_f8.bin", "size_bytes": 1}
+{"byte_value": 249, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_f9.bin", "size_bytes": 1}
+{"byte_value": 250, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_fa.bin", "size_bytes": 1}
+{"byte_value": 251, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_fb.bin", "size_bytes": 1}
+{"byte_value": 252, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_fc.bin", "size_bytes": 1}
+{"byte_value": 253, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_fd.bin", "size_bytes": 1}
+{"byte_value": 254, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_fe.bin", "size_bytes": 1}
+{"byte_value": 255, "category": "single_byte", "rationale": "S4 single-byte distinctness (audit F-02 regression guard)", "relpath": "single_byte/byte_ff.bin", "size_bytes": 1}
+{"category": "boundaries", "rationale": "S12 boundary size 0 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00000.bin", "size_bytes": 0}
+{"category": "boundaries", "rationale": "S12 boundary size 1 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00001.bin", "size_bytes": 1}
+{"category": "boundaries", "rationale": "S12 boundary size 2 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00002.bin", "size_bytes": 2}
+{"category": "boundaries", "rationale": "S12 boundary size 7 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00007.bin", "size_bytes": 7}
+{"category": "boundaries", "rationale": "S12 boundary size 8 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00008.bin", "size_bytes": 8}
+{"category": "boundaries", "rationale": "S12 boundary size 15 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00015.bin", "size_bytes": 15}
+{"category": "boundaries", "rationale": "S12 boundary size 16 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00016.bin", "size_bytes": 16}
+{"category": "boundaries", "rationale": "S12 boundary size 31 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00031.bin", "size_bytes": 31}
+{"category": "boundaries", "rationale": "S12 boundary size 32 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00032.bin", "size_bytes": 32}
+{"category": "boundaries", "rationale": "S12 boundary size 63 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00063.bin", "size_bytes": 63}
+{"category": "boundaries", "rationale": "S12 boundary size 64 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00064.bin", "size_bytes": 64}
+{"category": "boundaries", "rationale": "S12 boundary size 127 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00127.bin", "size_bytes": 127}
+{"category": "boundaries", "rationale": "S12 boundary size 128 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00128.bin", "size_bytes": 128}
+{"category": "boundaries", "rationale": "S12 boundary size 254 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00254.bin", "size_bytes": 254}
+{"category": "boundaries", "rationale": "S12 boundary size 255 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00255.bin", "size_bytes": 255}
+{"category": "boundaries", "rationale": "S12 boundary size 256 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00256.bin", "size_bytes": 256}
+{"category": "boundaries", "rationale": "S12 boundary size 257 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_00257.bin", "size_bytes": 257}
+{"category": "boundaries", "rationale": "S12 boundary size 1024 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_01024.bin", "size_bytes": 1024}
+{"category": "boundaries", "rationale": "S12 boundary size 10240 (mask / loop-edge regression)", "relpath": "boundaries/sizes/size_10240.bin", "size_bytes": 10240}
+{"category": "zero_filled", "rationale": "S9 zero-only equivalence (audit F-04)", "relpath": "zero_filled/zeros_00001.bin", "size_bytes": 1}
+{"category": "zero_filled", "rationale": "S9 zero-only equivalence (audit F-04)", "relpath": "zero_filled/zeros_00016.bin", "size_bytes": 16}
+{"category": "zero_filled", "rationale": "S9 zero-only equivalence (audit F-04)", "relpath": "zero_filled/zeros_00255.bin", "size_bytes": 255}
+{"category": "zero_filled", "rationale": "S9 zero-only equivalence (audit F-04)", "relpath": "zero_filled/zeros_00256.bin", "size_bytes": 256}
+{"category": "zero_filled", "rationale": "S9 zero-only equivalence (audit F-04)", "relpath": "zero_filled/zeros_01024.bin", "size_bytes": 1024}
+{"category": "zero_filled", "rationale": "S9 zero-only equivalence (audit F-04)", "relpath": "zero_filled/zeros_10240.bin", "size_bytes": 10240}
+{"category": "ones_filled", "rationale": "ones stress: every XOR step flips all bits", "relpath": "ones_filled/ones_00001.bin", "size_bytes": 1}
+{"category": "ones_filled", "rationale": "ones stress: every XOR step flips all bits", "relpath": "ones_filled/ones_00016.bin", "size_bytes": 16}
+{"category": "ones_filled", "rationale": "ones stress: every XOR step flips all bits", "relpath": "ones_filled/ones_00255.bin", "size_bytes": 255}
+{"category": "ones_filled", "rationale": "ones stress: every XOR step flips all bits", "relpath": "ones_filled/ones_00256.bin", "size_bytes": 256}
+{"category": "ones_filled", "rationale": "ones stress: every XOR step flips all bits", "relpath": "ones_filled/ones_01024.bin", "size_bytes": 1024}
+{"category": "ones_filled", "rationale": "ones stress: every XOR step flips all bits", "relpath": "ones_filled/ones_10240.bin", "size_bytes": 10240}
+{"category": "adversarial_bytes", "rationale": "adversarial pattern alt_00_ff_256", "relpath": "adversarial_bytes/alt_00_ff_256.bin", "size_bytes": 256}
+{"category": "adversarial_bytes", "rationale": "adversarial pattern alt_00_ff_1024", "relpath": "adversarial_bytes/alt_00_ff_1024.bin", "size_bytes": 1024}
+{"category": "adversarial_bytes", "rationale": "adversarial pattern period_3_1024", "relpath": "adversarial_bytes/period_3_1024.bin", "size_bytes": 1024}
+{"category": "adversarial_bytes", "rationale": "adversarial pattern period_7_1024", "relpath": "adversarial_bytes/period_7_1024.bin", "size_bytes": 1024}
+{"category": "adversarial_bytes", "rationale": "adversarial pattern ascii_low_256", "relpath": "adversarial_bytes/ascii_low_256.bin", "size_bytes": 256}
+{"category": "adversarial_bytes", "rationale": "1 MiB ASCII \u2014 long-input performance + no early-exit", "relpath": "adversarial_bytes/ascii_max_1MiB.bin", "size_bytes": 1048576}
+{"category": "random_fixtures", "fixture_index": 0, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_00_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 1, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_01_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 2, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_02_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 3, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_03_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 4, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_04_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 5, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_05_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 6, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_06_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 7, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_07_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 8, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_08_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 9, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_09_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 10, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_10_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 11, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_11_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 12, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_12_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 13, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_13_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 14, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_14_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 15, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_15_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 16, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_16_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 17, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_17_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 18, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_18_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 19, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_19_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 20, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_20_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 21, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_21_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 22, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_22_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 23, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_23_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 24, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_24_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 25, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_25_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 26, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_26_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 27, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_27_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 28, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_28_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 29, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_29_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 30, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_30_10KiB.bin", "size_bytes": 10240}
+{"category": "random_fixtures", "fixture_index": 31, "rationale": "deterministic random 10 KiB blob (diversity fuzz)", "relpath": "random_fixtures/rand_31_10KiB.bin", "size_bytes": 10240}
+{"category": "malformed", "descriptor": "'hello'", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/str_ascii.txt", "size_bytes": 7}
+{"category": "malformed", "descriptor": "''", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/str_empty.txt", "size_bytes": 2}
+{"category": "malformed", "descriptor": "'h\u00e9llo \u4e16\u754c \ud83d\ude00'", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/str_unicode.txt", "size_bytes": 20}
+{"category": "malformed", "descriptor": "42", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/int_small.txt", "size_bytes": 2}
+{"category": "malformed", "descriptor": "0", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/int_zero.txt", "size_bytes": 1}
+{"category": "malformed", "descriptor": "-1", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/int_negative.txt", "size_bytes": 2}
+{"category": "malformed", "descriptor": "None", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/none.txt", "size_bytes": 4}
+{"category": "malformed", "descriptor": "3.14", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/float.txt", "size_bytes": 4}
+{"category": "malformed", "descriptor": "True", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/bool_true.txt", "size_bytes": 4}
+{"category": "malformed", "descriptor": "False", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/bool_false.txt", "size_bytes": 5}
+{"category": "malformed", "descriptor": "bytearray(b'hello')", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/bytearray_a.txt", "size_bytes": 19}
+{"category": "malformed", "descriptor": "<memory at 0xffff96ceb700>", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/memoryview_a.txt", "size_bytes": 26}
+{"category": "malformed", "descriptor": "[104, 101, 108, 108, 111]", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/list_ints.txt", "size_bytes": 25}
+{"category": "malformed", "descriptor": "(104, 101, 108, 108, 111)", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/tuple_ints.txt", "size_bytes": 25}
+{"category": "malformed", "descriptor": "iter([104, 101, 108, 108, 111])", "rationale": "S7 type-acceptance contract (audit F-01 CWE-20)", "relpath": "malformed/generator.txt", "size_bytes": 31}

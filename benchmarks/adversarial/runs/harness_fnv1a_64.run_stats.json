@@ -1,0 +1,57 @@
+{
+  "argv": [
+    "--iters",
+    "1000000",
+    "--seed",
+    "20260913",
+    "--len-min",
+    "0",
+    "--len-max",
+    "2048"
+  ],
+  "command": [
+    "/usr/local/bin/python3",
+    "/root/projects/fnv1a-pure/.worktrees/t_cycle71-adversary-03/benchmarks/adversarial/harnesses/harness_fnv1a_64.py",
+    "--iters",
+    "1000000",
+    "--seed",
+    "20260913",
+    "--len-min",
+    "0",
+    "--len-max",
+    "2048"
+  ],
+  "coverage_paths": [
+    "fnv1a_pure/__init__.py:_fnv1a_64",
+    "fnv1a_pure/__init__.py:fnv1a_64"
+  ],
+  "crash_count": 0,
+  "elapsed_seconds": 91.7049,
+  "ended_at": "2026-09-13T16:16:20.134275+00:00",
+  "exit_code": 0,
+  "hang_count": 0,
+  "harness": "harness_fnv1a_64",
+  "harness_sha256": "0d4caa16dcfee9d67a4763f5db03023811dd643a5d8b15fde1e1fd05d7366aed",
+  "iters_completed": 1000000,
+  "max_depth": 2048,
+  "started_at": "2026-09-13T16:14:48.428958+00:00",
+  "stderr_tail": "",
+  "stdout_json": {
+    "crash_count": 0,
+    "determinism_runs": 100,
+    "elapsed_seconds": 91.6808,
+    "empty_returns_offset": true,
+    "hang_count": 0,
+    "harness": "harness_fnv1a_64",
+    "iters_requested": 1000000,
+    "len_max": 2048,
+    "len_min": 0,
+    "mask_invariant_iters": 1000000,
+    "no_exception_iters": 1000000,
+    "seed": 20260913,
+    "single_byte_distinct_outputs": 256,
+    "verdict": "PASS"
+  },
+  "timed_out": false,
+  "timeout_seconds": 300
+}

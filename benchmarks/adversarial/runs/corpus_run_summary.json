@@ -1,0 +1,729 @@
+{
+  "completed_at": "2026-09-13T16:20:31.434320+00:00",
+  "corpus_dir": "/root/projects/fnv1a-pure/.worktrees/t_cycle71-adversary-03/benchmarks/adversarial/corpus/seed",
+  "corpus_summary_path": "/root/projects/fnv1a-pure/.worktrees/t_cycle71-adversary-03/benchmarks/adversarial/corpus/seed/SUMMARY.json",
+  "iter_floor_met": true,
+  "iter_floor_target": 100000,
+  "out_dir": "/root/projects/fnv1a-pure/.worktrees/t_cycle71-adversary-03/benchmarks/adversarial/runs",
+  "per_harness": [
+    {
+      "argv": [
+        "--iters",
+        "1000000",
+        "--seed",
+        "20260913",
+        "--len-min",
+        "0",
+        "--len-max",
+        "2048"
+      ],
+      "command": [
+        "/usr/local/bin/python3",
+        "/root/projects/fnv1a-pure/.worktrees/t_cycle71-adversary-03/benchmarks/adversarial/harnesses/harness_fnv1a_64.py",
+        "--iters",
+        "1000000",
+        "--seed",
+        "20260913",
+        "--len-min",
+        "0",
+        "--len-max",
+        "2048"
+      ],
+      "coverage_paths": [
+        "fnv1a_pure/__init__.py:_fnv1a_64",
+        "fnv1a_pure/__init__.py:fnv1a_64"
+      ],
+      "crash_count": 0,
+      "elapsed_seconds": 91.7049,
+      "ended_at": "2026-09-13T16:16:20.134275+00:00",
+      "exit_code": 0,
+      "hang_count": 0,
+      "harness": "harness_fnv1a_64",
+      "harness_sha256": "0d4caa16dcfee9d67a4763f5db03023811dd643a5d8b15fde1e1fd05d7366aed",
+      "iters_completed": 1000000,
+      "max_depth": 2048,
+      "started_at": "2026-09-13T16:14:48.428958+00:00",
+      "stderr_tail": "",
+      "stdout_json": {
+        "crash_count": 0,
+        "determinism_runs": 100,
+        "elapsed_seconds": 91.6808,
+        "empty_returns_offset": true,
+        "hang_count": 0,
+        "harness": "harness_fnv1a_64",
+        "iters_requested": 1000000,
+        "len_max": 2048,
+        "len_min": 0,
+        "mask_invariant_iters": 1000000,
+        "no_exception_iters": 1000000,
+        "seed": 20260913,
+        "single_byte_distinct_outputs": 256,
+        "verdict": "PASS"
+      },
+      "timed_out": false,
+      "timeout_seconds": 300
+    },
+    {
+      "argv": [
+        "--iters",
+        "250000",
+        "--seed",
+        "20260913",
+        "--len-min",
+        "1",
+        "--len-max",
+        "2048"
+      ],
+      "command": [
+        "/usr/local/bin/python3",
+        "/root/projects/fnv1a-pure/.worktrees/t_cycle71-adversary-03/benchmarks/adversarial/harnesses/harness_fnv1_vs_fnv1a.py",
+        "--iters",
+        "250000",
+        "--seed",
+        "20260913",
+        "--len-min",
+        "1",
+        "--len-max",
+        "2048"
+      ],
+      "coverage_paths": [
+        "fnv1a_pure/__init__.py:_fnv1a_64",
+        "fnv1a_pure/__init__.py:_fnv1_64",
+        "fnv1a_pure/__init__.py:_fnv1a_32",
+        "fnv1a_pure/__init__.py:_fnv1_32",
+        "fnv1a_pure/__init__.py:fnv1a_64",
+        "fnv1a_pure/__init__.py:fnv1_64"
+      ],
+      "crash_count": 0,
+      "elapsed_seconds": 83.3222,
+      "ended_at": "2026-09-13T16:17:43.457438+00:00",
+      "exit_code": 0,
+      "hang_count": 0,
+      "harness": "harness_fnv1_vs_fnv1a",
+      "harness_sha256": "1352575c355ec6f958079ebb7ce2133059a5e372763fb91ec5367d453d738e5d",
+      "iters_completed": 250000,
+      "max_depth": 2048,
+      "started_at": "2026-09-13T16:16:20.134649+00:00",
+      "stderr_tail": "",
+      "stdout_json": {
+        "crash_count": 0,
+        "determinism_runs": 100,
+        "elapsed_seconds": 83.2936,
+        "frozen_probes_checked": 18,
+        "hang_count": 0,
+        "harness": "harness_fnv1_vs_fnv1a",
+        "iters_requested": 250000,
+        "len_max": 2048,
+        "len_min": 1,
+        "no_exception_iters": 250000,
+        "ordering_invariant_iters": 250000,
+        "seed": 20260913,
+        "spec_vectors_checked": 4,
+        "verdict": "PASS",
+        "zero_only_equality_checks": 6
+      },
+      "timed_out": false,
+      "timeout_seconds": 300
+    },
+    {
+      "argv": [
+        "--iters",
+        "100000",
+        "--seed",
+        "20260913",
+        "--len-min",
+        "0",
+        "--len-max",
+        "10240"
+      ],
+      "command": [
+        "/usr/local/bin/python3",
+        "/root/projects/fnv1a-pure/.worktrees/t_cycle71-adversary-03/benchmarks/adversarial/harnesses/harness_boundary.py",
+        "--iters",
+        "100000",
+        "--seed",
+        "20260913",
+        "--len-min",
+        "0",
+        "--len-max",
+        "10240"
+      ],
+      "coverage_paths": [
+        "fnv1a_pure/__init__.py:_fnv1a_64",
+        "fnv1a_pure/__init__.py:_fnv1_64",
+        "fnv1a_pure/__init__.py:_fnv1a_32",
+        "fnv1a_pure/__init__.py:_fnv1_32",
+        "fnv1a_pure/__init__.py:fnv1a_64",
+        "fnv1a_pure/__init__.py:fnv1_64",
+        "fnv1a_pure/__init__.py:fnv1a_32",
+        "fnv1a_pure/__init__.py:fnv1_32",
+        "fnv1a_pure/__init__.py:fnv1a_64_hex",
+        "fnv1a_pure/__init__.py:fnv1a_32_hex"
+      ],
+      "crash_count": 0,
+      "elapsed_seconds": 167.9547,
+      "ended_at": "2026-09-13T16:20:31.413886+00:00",
+      "exit_code": 0,
+      "hang_count": 0,
+      "harness": "harness_boundary",
+      "harness_sha256": "079f075a443dacec1179afa62460fa9a61704feaf5ece407d834e43e3168f6e5",
+      "iters_completed": 100000,
+      "max_depth": 10240,
+      "started_at": "2026-09-13T16:17:43.458062+00:00",
+      "stderr_tail": "",
+      "stdout_json": {
+        "boundary_size_checks": 57,
+        "crash_count": 0,
+        "elapsed_seconds": 167.9288,
+        "hang_count": 0,
+        "harness": "harness_boundary",
+        "hex_invariant_iters": 100000,
+        "iters_requested": 100000,
+        "len_max": 10240,
+        "len_min": 0,
+        "long_input_perf_seconds": {
+          "fnv1_32_1MiB": 0.0386,
+          "fnv1_64_1MiB": 0.044,
+          "fnv1a_32_1MiB": 0.0381,
+          "fnv1a_64_1MiB": 0.0445
+        },
+        "mask_invariant_iters": 100000,
+        "seed": 20260913,
+        "spec_vectors": {
+          "fnv1a_32": 4,
+          "fnv1a_32_hex": 4,
+          "fnv1a_64": 4,
+          "fnv1a_64_hex": 4
+        },
+        "verdict": "PASS"
+      },
+      "timed_out": false,
+      "timeout_seconds": 300
+    },
+    {
+      "argv": [],
+      "command": [
+        "/usr/local/bin/python3",
+        "/root/projects/fnv1a-pure/.worktrees/t_cycle71-adversary-03/benchmarks/adversarial/harnesses/harness_type_acceptance.py"
+      ],
+      "coverage_paths": [
+        "fnv1a_pure/__init__.py:_fnv1a_64",
+        "fnv1a_pure/__init__.py:_fnv1_64",
+        "fnv1a_pure/__init__.py:_fnv1a_32",
+        "fnv1a_pure/__init__.py:_fnv1_32",
+        "fnv1a_pure/__init__.py:fnv1a_64",
+        "fnv1a_pure/__init__.py:fnv1_64",
+        "fnv1a_pure/__init__.py:fnv1a_32",
+        "fnv1a_pure/__init__.py:fnv1_32",
+        "fnv1a_pure/__init__.py:fnv1a_64_hex",
+        "fnv1a_pure/__init__.py:fnv1a_32_hex"
+      ],
+      "crash_count": 0,
+      "elapsed_seconds": 0.0185,
+      "ended_at": "2026-09-13T16:20:31.433014+00:00",
+      "exit_code": 0,
+      "hang_count": 0,
+      "harness": "harness_type_acceptance",
+      "harness_sha256": "81b3a81edbd227478fd31c9ca79099a200b8509e22cee6fe6d51c4d840738764",
+      "iters_completed": 36,
+      "max_depth": null,
+      "silent_semantic_mismatches": 0,
+      "started_at": "2026-09-13T16:20:31.414507+00:00",
+      "stderr_tail": "Note: observation_table documents CURRENT type-acceptance contract (per audit F-01/F-02). Remediation recommended in audit \u00a7S7.\n",
+      "stdout_json": {
+        "bad_type_raise_checks": 18,
+        "crash_count": 0,
+        "hang_count": 0,
+        "happy_path_checks": 18,
+        "harness": "harness_type_acceptance",
+        "observation_table": {
+          "fnv1_32": {
+            "None": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "bytearray(empty)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytearray(hello)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(empty)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(hello)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(single)": {
+              "bit_length": 27,
+              "raised": false,
+              "return_type": "int"
+            },
+            "generator_yielding_bytes": {
+              "bit_length": 30,
+              "raised": false,
+              "return_type": "int"
+            },
+            "int(42)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "list[0..15]": {
+              "bit_length": 30,
+              "raised": false,
+              "return_type": "int"
+            },
+            "list[empty]": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "memoryview(empty)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "memoryview(hello)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "str(empty)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "str(hello)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "tuple[0..15]": {
+              "bit_length": 30,
+              "raised": false,
+              "return_type": "int"
+            },
+            "tuple[empty]": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            }
+          },
+          "fnv1_64": {
+            "None": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "bytearray(empty)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytearray(hello)": {
+              "bit_length": 63,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(empty)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(hello)": {
+              "bit_length": 63,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(single)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "generator_yielding_bytes": {
+              "bit_length": 63,
+              "raised": false,
+              "return_type": "int"
+            },
+            "int(42)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "list[0..15]": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "list[empty]": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "memoryview(empty)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "memoryview(hello)": {
+              "bit_length": 63,
+              "raised": false,
+              "return_type": "int"
+            },
+            "str(empty)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "str(hello)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "tuple[0..15]": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "tuple[empty]": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            }
+          },
+          "fnv1a_32": {
+            "None": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "bytearray(empty)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytearray(hello)": {
+              "bit_length": 31,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(empty)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(hello)": {
+              "bit_length": 31,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(single)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "generator_yielding_bytes": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "int(42)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "list[0..15]": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "list[empty]": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "memoryview(empty)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "memoryview(hello)": {
+              "bit_length": 31,
+              "raised": false,
+              "return_type": "int"
+            },
+            "str(empty)": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "str(hello)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "tuple[0..15]": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            },
+            "tuple[empty]": {
+              "bit_length": 32,
+              "raised": false,
+              "return_type": "int"
+            }
+          },
+          "fnv1a_32_hex": {
+            "None": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "bytearray(empty)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "811c9dc5"
+            },
+            "bytearray(hello)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "4f9f2cab"
+            },
+            "bytes(empty)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "811c9dc5"
+            },
+            "bytes(hello)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "4f9f2cab"
+            },
+            "bytes(single)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "c70bfb85"
+            },
+            "generator_yielding_bytes": {
+              "raised": false,
+              "return_type": "str",
+              "value": "c3aa51b1"
+            },
+            "int(42)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "list[0..15]": {
+              "raised": false,
+              "return_type": "str",
+              "value": "c8fff215"
+            },
+            "list[empty]": {
+              "raised": false,
+              "return_type": "str",
+              "value": "811c9dc5"
+            },
+            "memoryview(empty)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "811c9dc5"
+            },
+            "memoryview(hello)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "4f9f2cab"
+            },
+            "str(empty)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "811c9dc5"
+            },
+            "str(hello)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "tuple[0..15]": {
+              "raised": false,
+              "return_type": "str",
+              "value": "c8fff215"
+            },
+            "tuple[empty]": {
+              "raised": false,
+              "return_type": "str",
+              "value": "811c9dc5"
+            }
+          },
+          "fnv1a_64": {
+            "None": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "bytearray(empty)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytearray(hello)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(empty)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(hello)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "bytes(single)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "generator_yielding_bytes": {
+              "bit_length": 63,
+              "raised": false,
+              "return_type": "int"
+            },
+            "int(42)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "list[0..15]": {
+              "bit_length": 63,
+              "raised": false,
+              "return_type": "int"
+            },
+            "list[empty]": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "memoryview(empty)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "memoryview(hello)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "str(empty)": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            },
+            "str(hello)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "tuple[0..15]": {
+              "bit_length": 63,
+              "raised": false,
+              "return_type": "int"
+            },
+            "tuple[empty]": {
+              "bit_length": 64,
+              "raised": false,
+              "return_type": "int"
+            }
+          },
+          "fnv1a_64_hex": {
+            "None": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "bytearray(empty)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "cbf29ce484222325"
+            },
+            "bytearray(hello)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "a430d84680aabd0b"
+            },
+            "bytes(empty)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "cbf29ce484222325"
+            },
+            "bytes(hello)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "a430d84680aabd0b"
+            },
+            "bytes(single)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "af63ff4c86022805"
+            },
+            "generator_yielding_bytes": {
+              "raised": false,
+              "return_type": "str",
+              "value": "4475327f98e05411"
+            },
+            "int(42)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "list[0..15]": {
+              "raised": false,
+              "return_type": "str",
+              "value": "7c84dc9477851775"
+            },
+            "list[empty]": {
+              "raised": false,
+              "return_type": "str",
+              "value": "cbf29ce484222325"
+            },
+            "memoryview(empty)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "cbf29ce484222325"
+            },
+            "memoryview(hello)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "a430d84680aabd0b"
+            },
+            "str(empty)": {
+              "raised": false,
+              "return_type": "str",
+              "value": "cbf29ce484222325"
+            },
+            "str(hello)": {
+              "exception_type": "TypeError",
+              "raised": true
+            },
+            "tuple[0..15]": {
+              "raised": false,
+              "return_type": "str",
+              "value": "7c84dc9477851775"
+            },
+            "tuple[empty]": {
+              "raised": false,
+              "return_type": "str",
+              "value": "cbf29ce484222325"
+            }
+          }
+        },
+        "silent_semantic_comparisons": 72,
+        "silent_semantic_mismatches": 0,
+        "verdict": "PASS"
+      },
+      "timed_out": false,
+      "timeout_seconds": 30
+    }
+  ],
+  "runner": "run_corpus.py",
+  "schema_version": 1,
+  "seed": 20260913,
+  "total_crashes": 0,
+  "total_hangs": 0,
+  "total_iters_requested": 1350036
+}

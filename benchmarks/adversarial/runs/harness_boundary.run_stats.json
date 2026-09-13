@@ -1,0 +1,75 @@
+{
+  "argv": [
+    "--iters",
+    "100000",
+    "--seed",
+    "20260913",
+    "--len-min",
+    "0",
+    "--len-max",
+    "10240"
+  ],
+  "command": [
+    "/usr/local/bin/python3",
+    "/root/projects/fnv1a-pure/.worktrees/t_cycle71-adversary-03/benchmarks/adversarial/harnesses/harness_boundary.py",
+    "--iters",
+    "100000",
+    "--seed",
+    "20260913",
+    "--len-min",
+    "0",
+    "--len-max",
+    "10240"
+  ],
+  "coverage_paths": [
+    "fnv1a_pure/__init__.py:_fnv1a_64",
+    "fnv1a_pure/__init__.py:_fnv1_64",
+    "fnv1a_pure/__init__.py:_fnv1a_32",
+    "fnv1a_pure/__init__.py:_fnv1_32",
+    "fnv1a_pure/__init__.py:fnv1a_64",
+    "fnv1a_pure/__init__.py:fnv1_64",
+    "fnv1a_pure/__init__.py:fnv1a_32",
+    "fnv1a_pure/__init__.py:fnv1_32",
+    "fnv1a_pure/__init__.py:fnv1a_64_hex",
+    "fnv1a_pure/__init__.py:fnv1a_32_hex"
+  ],
+  "crash_count": 0,
+  "elapsed_seconds": 167.9547,
+  "ended_at": "2026-09-13T16:20:31.413886+00:00",
+  "exit_code": 0,
+  "hang_count": 0,
+  "harness": "harness_boundary",
+  "harness_sha256": "079f075a443dacec1179afa62460fa9a61704feaf5ece407d834e43e3168f6e5",
+  "iters_completed": 100000,
+  "max_depth": 10240,
+  "started_at": "2026-09-13T16:17:43.458062+00:00",
+  "stderr_tail": "",
+  "stdout_json": {
+    "boundary_size_checks": 57,
+    "crash_count": 0,
+    "elapsed_seconds": 167.9288,
+    "hang_count": 0,
+    "harness": "harness_boundary",
+    "hex_invariant_iters": 100000,
+    "iters_requested": 100000,
+    "len_max": 10240,
+    "len_min": 0,
+    "long_input_perf_seconds": {
+      "fnv1_32_1MiB": 0.0386,
+      "fnv1_64_1MiB": 0.044,
+      "fnv1a_32_1MiB": 0.0381,
+      "fnv1a_64_1MiB": 0.0445
+    },
+    "mask_invariant_iters": 100000,
+    "seed": 20260913,
+    "spec_vectors": {
+      "fnv1a_32": 4,
+      "fnv1a_32_hex": 4,
+      "fnv1a_64": 4,
+      "fnv1a_64_hex": 4
+    },
+    "verdict": "PASS"
+  },
+  "timed_out": false,
+  "timeout_seconds": 300
+}

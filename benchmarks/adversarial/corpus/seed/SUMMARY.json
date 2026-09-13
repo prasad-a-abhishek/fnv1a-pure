@@ -1,0 +1,76 @@
+{
+  "boundary_sizes": [
+    0,
+    1,
+    2,
+    7,
+    8,
+    15,
+    16,
+    31,
+    32,
+    63,
+    64,
+    127,
+    128,
+    254,
+    255,
+    256,
+    257,
+    1024,
+    10240
+  ],
+  "builder": "build_corpus.py",
+  "by_category": {
+    "adversarial_bytes": 6,
+    "boundaries": 19,
+    "malformed": 15,
+    "ones_filled": 6,
+    "random_fixtures": 32,
+    "ref_vectors": 4,
+    "single_byte": 256,
+    "zero_filled": 6
+  },
+  "out_dir": "/root/projects/fnv1a-pure/.worktrees/t_cycle71-adversary-03/benchmarks/adversarial/corpus/seed",
+  "schema_version": 1,
+  "seed": 20260913,
+  "spec_vectors": {
+    "fnv1a_32": [
+      {
+        "expected": 2166136261,
+        "input": ""
+      },
+      {
+        "expected": 3826002220,
+        "input": "61"
+      },
+      {
+        "expected": 1335831723,
+        "input": "68656c6c6f"
+      },
+      {
+        "expected": 3582672807,
+        "input": "68656c6c6f20776f726c64"
+      }
+    ],
+    "fnv1a_64": [
+      {
+        "expected": 14695981039346656037,
+        "input": ""
+      },
+      {
+        "expected": 12638187200555641996,
+        "input": "61"
+      },
+      {
+        "expected": 11831194018420276491,
+        "input": "68656c6c6f"
+      },
+      {
+        "expected": 8618312879776256743,
+        "input": "68656c6c6f20776f726c64"
+      }
+    ]
+  },
+  "total_inputs": 344
+}
