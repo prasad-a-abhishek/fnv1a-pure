@@ -9,7 +9,7 @@
 ## Quick Start
 
 ```bash
-pip install -e .
+pip install fnv1a-pure
 ```
 
 ```python
