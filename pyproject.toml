@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fnv1a-pure"
+version = "0.1.0"
+description = "Zero-dependency pure-stdlib FNV-1a and FNV-1 hash (32/64-bit) for Python"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.8"
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+keywords = ["fnv", "fnv1a", "hash", "non-cryptographic", "bloom-filter", "pure-python"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
