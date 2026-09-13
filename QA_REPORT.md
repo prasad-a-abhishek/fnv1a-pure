@@ -1,4 +1,5 @@
 # cycle_71 — QA report for fnv1a-pure
+tests_passing: true
 
 ## Environment
 - worktree: /root/projects/fnv1a-pure/.worktrees/t_cycle71-build
