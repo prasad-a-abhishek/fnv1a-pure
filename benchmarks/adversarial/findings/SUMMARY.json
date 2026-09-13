@@ -1,0 +1,73 @@
+{
+  "fuzz_run_commit": "61da90d",
+  "fuzz_run_summary": "benchmarks/adversarial/runs/corpus_run_summary.json",
+  "ranked": [
+    {
+      "id": "F-01",
+      "severity": "Medium",
+      "status": "OPEN",
+      "title": "Silent acceptance of non-bytes iterables"
+    },
+    {
+      "id": "F-02",
+      "severity": "Low",
+      "status": "OPEN",
+      "title": "Cryptic TypeError messages leak CPython internals"
+    },
+    {
+      "id": "F-03",
+      "severity": "Info",
+      "status": "ACCEPTED",
+      "title": "FNV-1 == FNV-1a on zero-only inputs (documented property)"
+    },
+    {
+      "id": "F-04",
+      "severity": "Info",
+      "status": "ALREADY_RESOLVED",
+      "title": "README test-vector table drift (pre-existing QA finding)"
+    },
+    {
+      "id": "F-05",
+      "severity": "Info",
+      "status": "OPEN",
+      "title": "bytearray/memoryview support decision undocumented"
+    }
+  ],
+  "reproduction_recipe": {
+    "audit_anchor": "4bc46d2",
+    "minimal_repro_per_finding": {
+      "F-01": "python3 -c 'from fnv1a_pure import fnv1a_64; print(fnv1a_64([1, 2, 3]))'",
+      "F-02": "python3 -c 'from fnv1a_pure import fnv1a_64; fnv1a_64(\"hello\")'",
+      "F-03": "python3 -c 'from fnv1a_pure import fnv1_64, fnv1a_64; assert fnv1_64(b\"\\\\x00\") == fnv1a_64(b\"\\\\x00\")'",
+      "F-04": "grep -n 'fnv1a_64(b\"a\")' README.md && python3 -c 'from fnv1a_pure import fnv1a_64; print(fnv1a_64(b\"a\"))'",
+      "F-05": "python3 -c 'from fnv1a_pure import fnv1a_64; print(fnv1a_64(bytearray(b\"hello\")))'"
+    },
+    "single_finding": "python3 benchmarks/adversarial/findings/triage.py  # re-runs all"
+  },
+  "schema_version": 1,
+  "source_audit_commit": "4bc46d2",
+  "source_audit_path": "benchmarks/adversarial/VULN_AUDIT.md",
+  "target_commit": "0715056",
+  "totals": {
+    "audit_findings_triaged": 5,
+    "by_severity": {
+      "Info": 3,
+      "Low": 1,
+      "Medium": 1
+    },
+    "findings": 5,
+    "fuzz_induced_crashes": 0,
+    "fuzz_induced_hangs": 0,
+    "fuzz_total_iters": 1350036
+  },
+  "triaged_at": "2026-09-13T00:00:00+00:00",
+  "verdict_inputs": {
+    "blocking_findings": [],
+    "critical_count": 0,
+    "fuzz_clean": true,
+    "high_count": 0,
+    "info_count": 3,
+    "low_count": 1,
+    "medium_count": 1
+  }
+}
